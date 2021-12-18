@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'angular-deploy-app';
   hello = 'hello';
+  hello_prateek = 'hello prateek';
 }
